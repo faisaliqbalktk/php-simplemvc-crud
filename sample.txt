@@ -1,0 +1,18 @@
+/crud_app
+    /config
+        Database.php         // Database connection file
+    /controllers
+        UserController.php    // Controller for user-related actions
+    /models
+        User.php              // User model for database operations
+    /views
+        user.php              // User creation form view
+        update.php            // User update form view
+        display.php           // User display view
+    /routes
+        web.php               // Route definitions
+    /public
+        index.php             // Entry point for the application
+    /assets
+        /css                  // CSS files
+        /js                   // JavaScript files
